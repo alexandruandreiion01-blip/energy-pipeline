@@ -1,0 +1,3 @@
+@echo off
+echo Starting Romania Energy Platform...
+streamlit run app.py
